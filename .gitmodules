@@ -1,0 +1,3 @@
+[submodule "compress"]
+	path = compress
+	url = https://github.com/anirudhgupta109/anykernel2
